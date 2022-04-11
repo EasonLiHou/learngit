@@ -3,6 +3,8 @@
     <h1>{{ msg }}</h1>
     <h2>Essential Linkshahahahahha</h2>
     <div>banben2</div>
+    <h2>Essential Links</h2>
+    <h2>我是b2</h2>
     <ul>
       <li>
         <a
