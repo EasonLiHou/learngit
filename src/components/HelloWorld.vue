@@ -1,10 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Essential Linkshahahahahha</h2>
-    <h3>aaaaa</h3>
-    <h3>bbbbb</h3>
-    <h3>ccccc</h3>
+    <h2>Essential Links</h2>
     <ul>
       <li>
         <a
